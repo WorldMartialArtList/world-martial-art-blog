@@ -4,10 +4,12 @@ categories:
 - History
 - External sources
 feature_text: |
-  The History of the Alembic tool
+  A Maior Boxeadora Feminina
 ---
 
 ![image](https://user-images.githubusercontent.com/16365313/166186270-e39de545-4bb5-429a-98b8-dd82657a862c.png)
+
+>A Maior Boxeadora Feminina
 
 
 Quando a maior lutadora do mundo lutou contra mulheres com punhos e homens com espadas, o piano, pelo italiano, Cristofer, e o termômetro de mercúrio, pelos alemães, Fahrenheit, eram invenções relativamente recentes. Enquanto Elizabeth Wilkinson (Stokes) se prepara para brigas públicas, a música popular atual incluía a ópera "La Silvia" de Vivaldi e os concertos de Brandemburgo de Bach. O Rei Jorge I governou a Inglaterra enquanto a mãe de seus filhos apodrece na cadeia por infidelidade. Sir Isaac Newton, 80 anos, corpo cheio de mercúrio, trabalha em uma cronologia da história sobre a ascensão e queda de impérios.
