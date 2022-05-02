@@ -77,7 +77,7 @@ Como escrevi anteriormente, a palavra começa a aparecer em meados do século XV
 
 |  |  |
 |---:|---|
-|https://user-images.githubusercontent.com/16365313/166325293-76335e60-a6eb-4d6d-9c81-6ce3b8c58f73.png | https://user-images.githubusercontent.com/16365313/166325306-dcdb3897-a2a4-4e94-90f5-6f0c2b3a4d6f.png |
+|![](https://user-images.githubusercontent.com/16365313/166325293-76335e60-a6eb-4d6d-9c81-6ce3b8c58f73.png) | ![](https://user-images.githubusercontent.com/16365313/166325306-dcdb3897-a2a4-4e94-90f5-6f0c2b3a4d6f.png) |
 
 
 
