@@ -139,7 +139,7 @@ lembrá-lo, a arte de se defender contra o ponto, é necessário, a fim de reali
 
 |  |   |  |
 |---|---|---|
-|  ![](https://user-images.githubusercontent.com/16365313/166327948-53c89850-a875-456a-898f-d965bb9b5c29.png) |  https://user-images.githubusercontent.com/16365313/166327960-289537ad-586e-4eb8-b6ff-f2f568be120b.png  | ![](https://user-images.githubusercontent.com/16365313/166327970-cca224a7-d9c4-45bd-bff4-84a6e58342f1.png)   |
+|  ![](https://user-images.githubusercontent.com/16365313/166327948-53c89850-a875-456a-898f-d965bb9b5c29.png) |  ![](https://user-images.githubusercontent.com/16365313/166327960-289537ad-586e-4eb8-b6ff-f2f568be120b.png)  | ![](https://user-images.githubusercontent.com/16365313/166327970-cca224a7-d9c4-45bd-bff4-84a6e58342f1.png)   |
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/166327980-6709adce-951c-4d95-a048-fdae5421fb46.png" caption="Isnardi 1838" width="300" height="800" %} 
 
