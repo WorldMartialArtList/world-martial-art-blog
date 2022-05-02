@@ -75,9 +75,11 @@ Quando a comunidade hema começou a se interessar pelo espadon, ela foi primeira
 Como escrevi anteriormente, a palavra começa a aparecer em meados do século XVI. Não está totalmente claro se ele aparece pela primeira vez em textos em francês ou espanhol, como aparece em dicionários sob ambas as línguas. Diz-se também que vem da spadone italiana, vinda do latim spadonem, mas parece mais provável que a palavra tenha chegado à Espanha, onde espadon significa "espada muito grande". Por que a origem espanhola foi esquecida é bastante intrigante.
 
 
-| |  |
-|--|---|
-|{% include figure.html image="https://user-images.githubusercontent.com/16365313/166325293-76335e60-a6eb-4d6d-9c81-6ce3b8c58f73.png" caption="L'espadon satyrique 1619" width="300" height="800" %}|{% include figure.html image="https://user-images.githubusercontent.com/16365313/166325306-dcdb3897-a2a4-4e94-90f5-6f0c2b3a4d6f.png" caption="Louis de Gaya 1678" width="300" height="800" %}|
+|  |  |
+|---:|---|
+|https://user-images.githubusercontent.com/16365313/166325293-76335e60-a6eb-4d6d-9c81-6ce3b8c58f73.png | https://user-images.githubusercontent.com/16365313/166325306-dcdb3897-a2a4-4e94-90f5-6f0c2b3a4d6f.png |
+
+
 
 
 O que é um pouco mais claro, é que se referia a uma espada de duas mãos até o início do século XVIII. Em seu dicionário de 1702, Furretière nos diz que "Uma espada de duas mãos ou espadon, é uma espada grande que tem um aperto duplo com duas mãos, e que é transformada tão rápido e habilmente que permanece sempre coberta". Em outras fontes, a definição está começando a mudar, definindo-a mais vagamente como uma "espada de batalha com uma borda e um ponto".
