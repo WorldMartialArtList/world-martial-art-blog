@@ -236,8 +236,7 @@ Durante as guerras do Império, muitos mestres e reitores de esgrima foram feito
 
 |    |    | 
 |-----|----|
-|  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329229-6a2cf704-3a20-4909-8c39-ba3ae80a293b.png" caption="Provosts diplomas das prisões de Dartmoor e Norman Cross. Todas as assinaturas são de mestres individuais que participaram do exame.
-" width="300" height="800" %}   |   {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329305-88269358-9cb8-4ec5-b587-4b47ecec21df.png" caption="" width="300" height="800" %}  |
+|  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329229-6a2cf704-3a20-4909-8c39-ba3ae80a293b.png" caption="Provosts diplomas das prisões de Dartmoor e Norman Cross. Todas as assinaturas são de mestres individuais que participaram do exame" width="300" height="800" %}   |   {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329305-88269358-9cb8-4ec5-b587-4b47ecec21df.png" caption="" width="300" height="800" %}  |
 
 Parece que esses diplomas ricamente decorados começaram a aparecer durante o Império. O padrão parece ser bastante regular. O diploma geralmente retrata dois esgrimistas jogando sob os olhos de mestres militares. O certificado lista o nome e a filiação do candidato, e convida os abaixo-assinados a prestar assistência conforme necessário. O grande número de signatários desses diplomas, muitas vezes com trinta em número, nos mostra a grande população de mestres militares nos regimentos. Eles denotam a passagem de um esgrimista para o título de reitor ou mestre, às vezes simplesmente em "esgrima", que às vezes era usado para descrever pointe, mas mais frequentemente para assuntos mais específicos como o pointe, o espadon ou o contre-pointe, mas também em armas mais específicas. como o bastão, o flail ou a bengala.
 
