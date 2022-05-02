@@ -3,6 +3,8 @@ title: Vivendo da espada sob Napoleão - Uma história dos mestres de esgrima do
 categories:
 - History
 - Esgrima
+- HEMA
+- La Canne
 feature_text: |
   Artes Marciais
 ---
@@ -231,9 +233,139 @@ Esta é provavelmente a melhor descrição do duelo como um teste do jovem recru
 
 Durante as guerras do Império, muitos mestres e reitores de esgrima foram feitos prisioneiros pelo inimigo. Encontramos não apenas testemunhos de treinamento feitos em pontões, mas também certificados de mestres emitidos em campos de prisioneiros como norman cross ou prisões de Dartmoor na Inglaterra. Os prisioneiros americanos em Dartmoor, como Uriah Levy, primeiro comodoro judeu da Marinha dos EUA, aproveitaram para aprender esgrima com alguns deles. [26]
 
-![image](https://user-images.githubusercontent.com/16365313/166329229-6a2cf704-3a20-4909-8c39-ba3ae80a293b.png)
+
+|    |    | 
+|-----|----|
+|  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329229-6a2cf704-3a20-4909-8c39-ba3ae80a293b.png" caption="Provosts diplomas das prisões de Dartmoor e Norman Cross. Todas as assinaturas são de mestres individuais que participaram do exame.
+" width="300" height="800" %}   |   {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329305-88269358-9cb8-4ec5-b587-4b47ecec21df.png" caption="" width="300" height="800" %}  |
+
+Parece que esses diplomas ricamente decorados começaram a aparecer durante o Império. O padrão parece ser bastante regular. O diploma geralmente retrata dois esgrimistas jogando sob os olhos de mestres militares. O certificado lista o nome e a filiação do candidato, e convida os abaixo-assinados a prestar assistência conforme necessário. O grande número de signatários desses diplomas, muitas vezes com trinta em número, nos mostra a grande população de mestres militares nos regimentos. Eles denotam a passagem de um esgrimista para o título de reitor ou mestre, às vezes simplesmente em "esgrima", que às vezes era usado para descrever pointe, mas mais frequentemente para assuntos mais específicos como o pointe, o espadon ou o contre-pointe, mas também em armas mais específicas. como o bastão, o flail ou a bengala.
+
+## La Canne e Le Baton: Uma especialidade do marinheiro?
+
+De fato, mesmo que as armas descritas anteriormente sejam realmente o que a maioria associaria à esgrima, outras também foram praticadas, especialmente, ao que parece, na Marinha Imperial. O marinheiro da Guarda Imperial Henri Ducor nos conta como a esgrima era então parte do entretenimento a bordo de um navio prisional espanhol no qual ele foi preso de 1808 a 1811, e nos campos de prisioneiros da Rússia de 1812 a 1814. No final da guerra, Ducor nos conta que vários soldados abriram "salles de esgrima, onde todos os tipos de esgrima foram demonstrados, pointe, contre-pointe, espadon, bastão, la canne e flail. Foi especialmente nestes últimos três tipos de exercícios que os marinheiros se destacaram [27] ".
 
 
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166329563-0c540dd0-4ef4-4968-bb24-7434689eeb91.png)  " caption="Este diploma mestre, concedido em 1825 em Brest, parece ter sido concedido a um marinheiro, como evidenciado pela abundância de símbolos navais. Alguns membros da Marinha Real parecem estar presentes, mas também alguns civis. O que é mais marcante é a estátua de Napoleão entronizado de forma muito triunfante no centro, uma escolha muito ousada para a época, mas que mostra a nostalgia do Império entre a Marinha. Crédito Laurent Bastard." width="300" height="800" %}
+
+
+Eu já escrevi um pouco sobre la canne e le baton, então vou tentar não me repetir aqui, mas não está muito claro como esses métodos vieram a evoluir, pois temos muito poucas fontes. Sabemos que a prática era muito popular na Bretanha, que tinha uma cultura naval já extorquida, por isso não é impossível que a arte dos bâton à deux bouts se tornasse uma arte popular entre os marinheiros através da contribuição desses marinheiros bretões trazendo seu passatempo favorito a bordo.
+
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166329676-2e68a8e4-2786-4e9f-b302-1a534b407396.png)  " caption="O bâton à deux bouts é um dos ancestrais de le baton, ensinado em esgrima salles pelo menos desde o final do século XV até meados do século XVIII e praticado até o início do século XIX. Estava equipado com dois espinhos em cada extremidade. Aqui, Louis de Gaya apresenta-o como uma arma de campo de batalha usada em formaitons de pique em seu tratado de 1678. Os dois entregaram espadon também pode ter sido uma grande influência." width="300" height="800" %}
+
+
+Embora os marinheiros fossem aparentemente reconhecidos por suas habilidades com instrumentos contundentes, a esgrima também parecia ter sido uma atividade bastante popular, de acordo com as memórias do então tenente François Leconte, que nos diz que a maioria dos marinheiros seria proficiente em esgrima com sabre e papel alumínio, recebendo instruções de artilheiros navais que, segundo ele, compunham a maioria dos mestres de esgrima na Marinha francesa. Eles também treinavam rotineiramente na dança, e adotavam uma maneira peculiar de caminhar a partir dessas atividades, com os pés virados em um ângulo extremo para fora como resultado. Ele também menciona quantos também usariam uma folha afiada ao lado de sua cutlass. Sua presença nos quartéis militares em Vincennes, como eles foram chamados para ajudar a defender a cidade durante a campanha da França, contribuiu para muitas lutas de sabre com os artilheiros de cavalos com quem eles compartilhavam esses quartéis. [28]
+
+|    |    | 
+|-----|----|
+|  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329793-160ed5ce-0eb4-4c32-8b90-3ecb21e756d7.png" caption="Prisão De Guerra Norman Cruz, Inglaterra, ca. 1797. Um close-up mostra várias figuras praticando esgrima, bem como duas praticando o que parece ser le baton. Curiosamente, eles estão localizados na prisão de marinheiros, na praça inferior direita, como indicado no nº 10 da legenda. Claro, isso não é uma fotografia, mas a escolha de colocá-los apenas no bairro do marinheiro talvez aponte novamente para uma associação entre a Marinha e le baton" width="300" height="800" %}   |   {% include figure.html image="https://user-images.githubusercontent.com/16365313/166329804-578e8d13-38a2-4a61-9f92-fbd981f5e5e7.png" caption="" width="300" height="800" %}  |
+
+
+Vários marinheiros e soldados, portanto, começaram a ensinar armas no final de seu serviço. Certos mestres como Grisier não gostavam desses ex-mestres militares de esgrima treinados em navios prisionais que ele chamou de "usuários de semi-espadon" quando eles foram autorizados a usar o oficial militar spadroon. Entre eles, há, é claro, Lafaugère, mas também Pons l'Aîné, Larribeau sobrevivente de Trafalgar e Medusa [29], ou Michel. Além desses personagens ilustres, podemos também imaginar centenas de mestres com uma formação mais humilde, como este spurrier da região de Le Mans em 1816:
+
+>Lonchamps, spurrier, faz todos os tipos de freios e esporas. Ele também ensina as armas, contre-pointe e espadon, com princípio e precisão. Suas aulas começam às 6:.m até as nove, e das 17h às 20h.m. Sua casa é a Rua Dorée n.22. [30]
+
+## Esgrima como exportação nacional
+
+As guerras napoleônicas não só contribuíram para o desenvolvimento da esgrima na França. Como em outros campos, o Império estendeu a influência francesa na Europa e até mesmo além. Assim, podemos identificar vários mestres franceses ensinando esgrima no exterior. Já nomeamos De Saint-Martin, professor da corte austríaca, Valville [31], instrutor geral da guarda imperial russa, e que deixou uma marca muito marcante na esgrima deste país até o final do século XIX, Domenico Angelo e seu filho Henry, foram ambos ensinados (pelo menos em parte para Henry) na França, assim como Francalanza ensinando contre-pointe no Colégio Militar de High Wycombe, a instituição criada por ninguém menos que Gaspard Le Marchant. Para que ele teve uma influência no desenvolvimento do método de Le Marchant é difícil dizer.
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166329955-cac76e0e-4421-4532-b0c7-f48697f6119f.png)  " caption="The Morning Chronicle, Londres, 12 de novembro de 1812" width="300" height="800" %}
+
+É necessário explicar aqui que poucos exércitos na Europa tinham tantos mestres de esgrima em suas fileiras, ou mesmo na população civil. Isso foi observado pelo Major Charles James em seu Dicionário Militar de 1802, onde ele observa que o Exército Britânico deve imitar os franceses, em alguma capacidade limitada, colocando mestres de esgrima em todos os batalhões grenadier. [32] Acredito que talvez seja por isso que vemos tão poucos livros sobre artes marciais francesas na própria França, e a necessidade de contar com muitos mestres exilados para aprender mais sobre eles, já que a demanda por livros era bastante pequena quando a disponibilidade de instrutores (cujas aulas poderiam ser mais baratas que um livro) era tão grande.
+
+Alguns soldados estrangeiros do Grande Armée, de volta ao seu país de origem, também contribuíram para a disseminação da esgrima francesa. Entre eles está Christmann, um veterano da Guarda Imperial e nativo de Mainz cujo método foi exportado não só para a Alemanha, mas também para a Grécia [33]. Ou Bertolini, que publica um volume sobre o contre-pointe em Trieste [34]. Mesmo na América, onde alguns soldados exilados como FP Girard ensinaram em Boston e Montreal [35], ou mesmo na prestigiada academia militar de West Point, nos Estados Unidos, onde o primeiro mestre de esgrima, Pierre Thomas, ensinou espadon, pointe e contre-pointe [36]. A influência napoleônica também continuou a ser sentida em países como a Itália, onde as academias militares francesas haviam sido estabelecidas.
+
+## Um segundo vento, e um Segundo Império
+
+Após a Restauração, a esgrima se espalhou, mas não experimentou nenhum grande renascimento no exército. Isso vai mudar com a chegada ao poder de Napoleão III. O anúncio do Segundo Império desencadeou uma série de reformas que dariam novo impulso à esgrima militar. Eles começaram em 1851 apresentando o primeiro sistema de regulação offical ensinando o uso da cutlass aos marinheiros, que foi seguido pela criação da escola de ginástica e esgrima de Joinville em 1852. O objetivo desta escola era treinar soldados para padronizar a prática de atividades físicas. Joinville tornou-se uma verdadeira fábrica para mestres de armas, que foram novamente exportados para todo o mundo. Também criou uma nova mania de esgrima que lentamente leva ao esporte que conhecemos hoje.
+
+O método se enraizou no Japão, onde uma missão francesa foi enviada em 1866 para ajudar a treinar um novo exército japonês. A missão foi interrompida, e não retornou ao país até 1872, mas a esgrima francesa foi firmemente estabelecida na década de 1880 com a publicação da tradução japonesa do manual de Joinville em 1889. Este método deixou seus traços em técnicas posteriormente implementadas pela escola Toyama, como jukendo ou Toyama Ryu [37].
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166330123-afb6450d-195e-4f33-8bb4-7add11fe509e.png)  " caption="https://user-images.githubusercontent.com/16365313/166330123-afb6450d-195e-4f33-8bb4-7add11fe509e.png" width="300" height="800" %}
+
+## Em conclusão
+
+Embora possamos nos surpreender com a longevidade da espada em um exército baseado no poder da pólvora como o de Napoleão, devemos admitir que sua prática permaneceu importante, como pode ser visto pelos milhares de sabres e espadas descansando em reservas de museus ou em paredes privadas, bem como a herança literária e gestural que os mestres de esgrima do Grande Exército nos deixaram. A prática e o estudo das artes marciais históricas nos ajuda a entender melhor essa herança hoje.
+
+## Bibliografia
+
+
+[1] Daressy, H. , Archives des maîtres darmes de Paris. Paris: Quantin, (1888), p.46.
+
+[2] Chouinard, M. (15 de outubro de 2015), « Chasseurs et gentlemen : Histoire des arts martiaux au Québec », rapporté dans hemamisfits.com : https://hemamisfits.com/2015/10/19/chasseurs-et-gentlemen-histoire-des-arts-martiaux-au-quebec/ (9 mai 2020).
+
+[3] Ravaton, H., Chirurgie d'armée ou traité des plaies d'armes à feu et d'armes blanches... Paris: Didot Lejeune (1768).
+
+[4] Lafaugère, Louis Justin, Traité de l'art de faire des armes. Paris: Garnier (1825).
+
+[5] Chatelain, René-Julien, Traité d'escrime à pied et à cheval. Paris: Magimel, Anselin et Pochard (1817).
+
+[6] LaBoëssière de, Traité de l'art des armes, à l'use des professeurs et des amateurs. Paris: Didot (1818).
+
+[7] Molard, É, Dictionnaire du Mauvais Langage (1797).
+
+[8] De Saint Martin, L'Art de faire des Armes reduit a ses vrais principes (1804).
+
+[9] Le Couturier, François Gervais Edouard. Dictionnaire portatif et raisonné des connaissances militaires. França, n.p, (1825).
+
+[10] Bardin, Étienne-Alexandre, Dictionnaire de l'armée de terre, ou Recherches historiques sur l'art et les uses militaires des anciens et des modernes. Partido 7, França (1841), p.2171.
+
+[11] Martin, Le Maistre d'armes, ou l'Abrégé de l'exercice de l'épée démontrée par le sieur Martin. Estrasburgo: L'auteur (1737).
+
+[12] Girard Pierre-Jacques-François, Nouveau traité de la perfection sur le fait des armes ... par le Sr P.-J.-F. Girard.. Paris: Moette (1736).
+
+[13] de, S.M. J., L'art de faire des armes réduit a ses vrais principes: contenant tous les principes nécessaires à cet art, qui y sont expliqués d'une manière claire et intelligible ... on y a joint un Traité de l'espadon, où on trouve les vrais principes de cet art ... Vienne: Impr. J. Schrämble (1804).
+
+[14] Müller Alexandre, Théorie sur l'escrime à cheval, pour se défendre aux avantages contre toute espèce d'armes blanches: Ornée de 51 planches en taille douce. Paris: Cordier. (1816), p. 1.
+
+[15] Perinat Juan Nicolás, Arte de esgrimir florete y sable: por los principios más seguros, fáciles e intelegíveis. En Cadiz: en la Imprenta de la Real Academia de Cavalleros Guardias-Marinas (1758).
+
+[16] Angelo, D., L'école des armes, avec l'explication générale des principales attitudes et positions concernant l'escrime. Londres: R. & J. Dodsley (1763).
+
+[17] Garry, J., La baïonnette: histoire d'une escrime de guerre. Paris: L'oeil d'or (2016).
+
+[18] Perinat, Ibid.
+
+[19] Selmnitz, E. von. (n.d.). Die Bajonetfechtkunst oder Lehre des Verhaltens mit dem Infanterie-Gewehre als Angriffs- und Vertheidigungs-Waffe.
+
+[20] Müller, Alexandre. (n.d.). Rapporté de https://labibliothequemondialeducheval.org/bmc/personnesCheval/doc/pddn_p.BMC_2543.xml.
+
+[21] Directeur du spectateur, Le Spectateur militaire, Recueil de science, d'art et d'histoire militaires : Volume 17 (1834), p. 463.
+
+Barrucand, Victor, La Vie Véritable Du Citoyen Jean Rossignol. Paris: E. Plon (1896), p. 15
+
+[23] Merle, J. T., & Ourry, Une Journée de Garnison, comédie en un acte, mêlée de couplets, etc. Paris. (1812), p.25
+
+[24]Coignet, J. R. , Mémoires d'un officier de l'empire: les cahiers du capitaine Coignet. Paris: Deux-Trois. (1850), P.79
+
+[25] Barrucand, Victor., op. cit., p. 17
+
+[26] Appel, Phyllis, Uriah Levy: From Cabin Boy to Commodore. N.p.: Graystone Enterprises LLC, (2016), p.12.
+
+[27] Ducor, H., Aventures d'un marin de la garde impériale prisonnier de guerre sur les pontons espagnols, dans l'île de Cabréra, et en Russie ; pour faire suite a « L'histoire de la campagne de 1812 ». Paris: Dupont, p.. 137
+
+[28] Leconte, François, Mémoires pittoresques d'un officier de marine, Brest, Le Pontois, (1851), p. 72
+
+[29] Embora certos documentos nos façam duvidar de sua presença em Trafalgar.
+
+[30] Département de la Sarthe, Affiches, annonces judiciaires, avis divers du Mans. Le Mans (1816), p.367
+
+[31] Valville, A., Traité sur la contrepointe. Saint-Pétersbourg: Charles Kray (1817).
+
+[32] James, Charles, Um Dicionário Militar Universal, T. Egerton, (1816), p. 889
+
+[33] Müller, P., Theoretical and Applied Introduction to Swordsmanship (1847).
+
+[34] Bertolini di Trento, B., Teorie sulla sciabola per una scuola di contropunta di genere misto. Ferrara (1856).
+
+[35] Chouinard, M. (15 de outubro de 2015), « Chasseurs et gentlemen : Histoire des arts martiaux au Québec », rapporté dans hemamisfits.com : https://hemamisfits.com/2015/10/19/chasseurs-et-gentlemen-histoire-des-arts-martiaux-au-quebec/ (9 mai 2020)
+
+[36] Cohen, R., By the sword: a history of gladiators, mosqueteiros, duelistas, samurais, swashbucklers e pontos de honra. Basingstoke: Palgrave Macmillan (2002), p. 258
+
+[37] Tavernier, Baptiste. O Forsaken Kendo. Kendo World Magazine, 7 (2014).
+
+Batuta, esgrima, mestre fenicng, florete, França, Francês, Revolução Francesa, Grande armée, HEMA, História, La Canne, Napoleão, sabre, samllsword
 
 ---
 
