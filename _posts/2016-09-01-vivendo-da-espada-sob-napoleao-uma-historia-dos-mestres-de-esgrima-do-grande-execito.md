@@ -86,7 +86,6 @@ O que é um pouco mais claro, é que se referia a uma espada de duas mãos até 
 
 Nesse ponto, parece que a palavra foi usada prontamente para se referir a qualquer espada grande, reta ou curva, assim como o termo inglês "espada larga" na mesma época. Em meados do século XVIII, parece ter saído da linguagem formal, e foi então encontrado apenas na linguagem popular, às vezes no espadron modificado e muito ridicularizado, e permanecendo lá até meados do século XIX. [7] Na maioria dos livros que se referem tanto ao espadon quanto aos sabres reais ou palavras amplas, às vezes você pode notar um hábito muito revelador. O autor geralmente se refere ao espadon quando fala em esgrima, e usa "sabre" quando fala sobre a arma tangível real. Por exemplo, este é o caso em Saint-Martin. [8]
 
-![image](https://user-images.githubusercontent.com/16365313/166325607-809cfcc0-3738-498a-9573-83fbeb0eebab.png)
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/166325607-809cfcc0-3738-498a-9573-83fbeb0eebab.png" caption="" width="300" height="800" %}
 
@@ -140,7 +139,7 @@ lembrá-lo, a arte de se defender contra o ponto, é necessário, a fim de reali
 
 |  |   |  |
 |---|---|---|
-|  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166327948-53c89850-a875-456a-898f-d965bb9b5c29.png" caption="Sokolov 1841" width="300" height="800" %}  |  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166327960-289537ad-586e-4eb8-b6ff-f2f568be120b.png" caption="Sieverbrück 1852" width="300" height="800" %}  |  {% include figure.html image="https://user-images.githubusercontent.com/16365313/166327970-cca224a7-d9c4-45bd-bff4-84a6e58342f1.png" caption="Sieverbrück 1852" width="300" height="800" %}   |
+|  ![](https://user-images.githubusercontent.com/16365313/166327948-53c89850-a875-456a-898f-d965bb9b5c29.png) |  https://user-images.githubusercontent.com/16365313/166327960-289537ad-586e-4eb8-b6ff-f2f568be120b.png  | ![](https://user-images.githubusercontent.com/16365313/166327970-cca224a7-d9c4-45bd-bff4-84a6e58342f1.png)   |
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/166327980-6709adce-951c-4d95-a048-fdae5421fb46.png" caption="Isnardi 1838" width="300" height="800" %} 
 
