@@ -43,6 +43,43 @@ A arma mais popular e conhecida na escola francesa é, sem dúvida, o ponto. Est
 
 O esgrimista agora recua atrás de sua espada, posicionando-se em um ângulo na frente do oponente. Seu peso é carregado na perna traseira e sua técnica ofensiva se baseia em primeiro lugar em um conceito que não é exatamente novo, mas pelo menos nunca foi tão prevalente: o pulmão. Há também um sistema de nomenclatura completamente novo para guardas com base no alinhamento manual. Este é o início dos guardas prime, seconde, tierce e quarte, aos quais serão adicionados vários mais.
 
+![image](https://user-images.githubusercontent.com/16365313/166325005-c55111cb-b853-46cd-b9d1-ad732ce20d27.png)
+
+>Lancers poloneses treinando em pointe, por Carle Vernet, 1812
+
+
+Esgrima italiana e espanhola estavam então no auge da popularidade. Tratados de esgrima competiram em complexidade para explicar suas ações, oferecendo diagramas geométricos, bem como conceitos filosóficos e físicos para dar sentido aos seus movimentos. Mas a esgrima francesa estava lentamente começando a se afirmar, juntamente com o surgimento de um novo tipo de espada: a espada pequena. Esta espada é uma versão mais curta e fina, com um punho mais minimalista do que o mais arrebatador. Mais fácil de usar, ganhou popularidade na corte. Foi adotado pelos soldados, e continuou a ser usado no campo de batalha por muitos oficiais no Império.
+
+O mestre francês de esgrima trouxe duas inovações materiais para a prática da esgrima: a folha e o plastron. A folha é agora uma abstração do épée que permite uma prática mais enérgica e segura, uma invenção que foi declamada por alguns mestres que temiam que o desenvolvimento da coragem fosse negligenciado, criando esgrimistas que fugiriam à primeira vista de uma lâmina afiada. Essa ideia de desenvolver coragem é um tema comum em tratados e documentos de esgrima da Renascença, e que valeria a pena investigar mais adiante na minha opinião.
+
+![image](https://user-images.githubusercontent.com/16365313/166325094-25a4f554-ecc5-419d-b21e-54fa57876653.png)
+
+>O mestre francês de esgrima da virada do século XVIII, mostrando as invenções de sua escola: a folha, o plastron e o chinelo.
+
+O plastron, que se tornou um símbolo do mestre das armas, permite que este último ensine a lição desenvolvendo totalmente o impulso em um alvo móvel e realista, removendo muitas abstrações. A esgrima pointe agora se concentra em um alvo em particular: o coração, um dos poucos alvos que podem acabar com o combate rapidamente. Cirurgiões da época, como Ravaton, lembraram-nos gravemente disso, dizendo-nos que os impulsos de espada que afetavam o coração simplesmente nunca foram trazidos à atenção do cirurgião [3].
+
+O desenvolvimento do pointe gerou um número impressionante de tratados e manuais. Os mestres franceses tinham sido relativamente silenciosos sobre o tema da esgrima, deixando o assunto para os mestres alemães e italianos; isso mudou com o desenvolvimento da esgrima pontial, que representou quase todo o corpus francês no século XVIII.
+
+No entanto, essa produção foi desacelerada com o advento da Revolução. Muito poucos tratados foram publicados até a Restauração, talvez porque os mestres são empregados na guerra e poucos deles têm o tempo necessário para escrever. Uma rara exceção é de Saint-Martin, que publicou um tratado em 1800. Foi depois do Império que a publicação dos manuais foi retomada.
+
+Entre esses mestres, contamos Louis Justin Lafaugère, Mestre de esgrima no 25º regimento de chasseurs a cheval que publicou seu "Tratado sobre a arte da esgrima" em 1820 [4], o Chevalier Châtelain, tenente-coronel da cavalaria em 1817 [5] bem como La Boëssière, filho do famoso criador da máscara de esgrima em 1818 [6].
+
+## Espadon: o que é isso?
+
+Provavelmente um dos maiores mistérios da esgrima francesa moderna é o do espadon. Basta abrir um dicionário publicado no século XIX para ver rapidamente o quão confusa é a palavra em si: um nome arcaico para a espada renascentista de duas mãos, uma palavra popular referindo-se a uma espada ou sabre de lâmina larga, um peixe e, finalmente, um termo específico para esgrimistas.
+
+Quando a comunidade hema começou a se interessar pelo espadon, ela foi primeiramente entendida como um tipo de arma, como um epee de soldat ou algum tipo de espada ampla. Isso se deve ao fato de que a esgrima francesa usa uma terminologia muito confusa para designar seus estilos, usando a palavra "armes" para designá-los. Armes podem ser traduzidos como armas ou armas, então se alguém estava dizendo que o espadon é um braço, no início faria sentido considerá-lo simplesmente como um tipo real de espada, e em alguns contextos era.
+
+Como escrevi anteriormente, a palavra começa a aparecer em meados do século XVI. Não está totalmente claro se ele aparece pela primeira vez em textos em francês ou espanhol, como aparece em dicionários sob ambas as línguas. Diz-se também que vem da spadone italiana, vinda do latim spadonem, mas parece mais provável que a palavra tenha chegado à Espanha, onde espadon significa "espada muito grande". Por que a origem espanhola foi esquecida é bastante intrigante.
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166325293-76335e60-a6eb-4d6d-9c81-6ce3b8c58f73.png" caption="L'espadon satyrique 1619" position="right" width="300" height="800" %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/166325306-dcdb3897-a2a4-4e94-90f5-6f0c2b3a4d6f.png" caption="Louis de Gaya 1678" position="left" width="300" height="800" %}
+
+
+
+
+
 ---
 
 [Artigo Original](https://hemamisfits.com/2021/04/25/living-off-the-sword-under-napoleon-a-history-of-the-fencing-masters-of-the-grand-army/)
