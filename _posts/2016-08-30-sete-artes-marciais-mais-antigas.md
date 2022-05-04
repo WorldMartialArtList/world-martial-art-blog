@@ -132,4 +132,5 @@ Um manuscrito de papiro grego - chamado Papyrus Oxyrhynchus - de cerca de sécul
 
 ---
 
-[Artigo Original](https://www.oldest.org/sports/martial-arts/)
+
+{% include button.html text="Artigo Original" link="https://www.oldest.org/sports/martial-arts/" %}
