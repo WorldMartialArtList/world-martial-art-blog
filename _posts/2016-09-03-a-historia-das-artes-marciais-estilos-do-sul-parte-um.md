@@ -11,7 +11,7 @@ feature_text: |
 
 ## Fundação dos Templos Shaolin do Sul afiliados durante a Dinastia Qing - Parte 1
 
-Nas últimas duas décadas de escavações revelaram três possíveis templos shaolin do sul; um em Jiulianshan (ののの) perto de Putian (莆) villeage na província de Fujian (の建) o segundo em Fuqing (芙卿) país fujiano, e o terceiro chamado Templo Zhenguo Dong Chan Shaolin (鎮國東禪少林寺 Zan Gwok Dung Sim) ao pé do Qingyuan Shan (清源) em Quanzhou (泉州 ) na província de Fujian.
+Nas últimas duas décadas de escavações revelaram três possíveis templos shaolin do sul; um em Jiulianshan (ののの) perto de Putian (莆) vilarejo na província de Fujian (の建) o segundo em Fuqing (芙卿) provincia de Fujian , e o terceiro chamado Templo Shaolin Zhenguo Dong Chan (鎮國東禪少林寺 Zan Gwok Dung Sim) ao pé do Qingyuan Shan (清源) em Quanzhou (泉州 ) na província de Fujian.
 
 O primeiro Templo Shaolin do Sul foi, em última análise, o resultado de guerreiros monges do Templo do Norte (Songshan) respondendo a um pedido de ajuda marcial de uma jovem Dinastia Tang. Incursões piratas na província de Fujian ameaçavam estabilidade e prosperidade no sul da China e a nova dinastia precisava de ajuda. A pedido do Imperador, três dos lendários monges shaolin treze cudgel, Dao Guang, Seng Man e Seng Feng, levaram aproximadamente 500 monges guerreiros ao sul no início do século VII d.C. para lutar contra piratas. Eles ajudaram a derrotar os piratas, mas a maioria deles morreu em batalha fazendo isso.
 
