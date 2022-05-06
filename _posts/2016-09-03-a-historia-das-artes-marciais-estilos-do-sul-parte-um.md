@@ -9,7 +9,7 @@ feature_text: |
   Han Wei Wushu Newsletter (dezembro de 1996 edição #27)
 ---
 
-## Fundação dos Templos Shaolin do Sul afiliados durante a Dinastia
+## Fundação dos Templos Shaolin do Sul afiliados durante a Dinastia Qing - Parte 1
 
 Nas últimas duas décadas de escavações revelaram três possíveis templos shaolin do sul; um em Jiulianshan (ののの) perto de Putian (莆) villeage na província de Fujian (の建) o segundo em Fuqing (芙卿) país fujiano, e o terceiro chamado Templo Zhenguo Dong Chan Shaolin (鎮國東禪少林寺 Zan Gwok Dung Sim) ao pé do Qingyuan Shan (清源) em Quanzhou (泉州 ) na província de Fujian.
 
