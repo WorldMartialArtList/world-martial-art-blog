@@ -104,7 +104,7 @@ A Federação se esforça para desenvolver as artes marciais tradicionais vietna
 ## Figurinos, Cinto & Níveis
 
 
-{% include figure.html image="https://user-images.githubusercontent.com/16365313/167338030-6e3fb4fe-8e23-45ee-99e0-45587376cb4f.png" caption="O cinturão amarelo de Vovinam simboliza a interiorização "profunda da pele" da arte marcial e da filosofia. Uma pessoa que usa isso com uma ou mais listras é considerada um instrutor" width="300" height="800" %}
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167338030-6e3fb4fe-8e23-45ee-99e0-45587376cb4f.png" caption="O cinturão amarelo de Vovinam simboliza a interiorização profunda da pele da arte marcial e da filosofia. Uma pessoa que usa isso com uma ou mais listras é considerada um instrutor" width="300" height="800" %}
 
 Trajes de atletas tradicionais de artes marciais em torneios nacionais – Uniformes de artes marciais de cor preta, camisas de colarinho-tanque, calças não pagas;
 
