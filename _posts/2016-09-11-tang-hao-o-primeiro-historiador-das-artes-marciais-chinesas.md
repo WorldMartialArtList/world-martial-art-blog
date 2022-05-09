@@ -47,7 +47,6 @@ Uma das coisas que precisamos lembrar ao rever a carreira de Tang Hao é que dur
 
 Infelizmente, a vida e a carreira de Tang Hao são menos conhecidas no oeste hoje. De longe, a discussão mais detalhada de sua vida em inglês é fornecida por Kennedy e Guo em seu volume Manuais de Treinamento de Artes Marciais Chinesas: Uma Pesquisa Histórica (Blue Snake, 2005). Andrew Morris discute alguns episódios de sua carreira brevemente em sua investigação de esportes na China republicana. Tang Hao também faz uma série de aparições nos escritos de Stanley Henning. Mas por tudo isso ainda não temos nada como uma biografia completa deste indivíduo. Isso é uma pena. Como Kennedy observou, ele era o historiador raro cuja vida era tão interessante quanto o material que ele pesquisou.
 
-![image]()
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/167512611-e514d3f2-897c-4eee-b4e3-832b5f62e8d2.png" caption="Um detalhe dos murais restaurados da era Qing no Templo Shaolin." %}
 
@@ -171,11 +170,17 @@ Ainda assim, não posso deixar de me perguntar se isso é um erro. Tang Hao era 
 
 Isso é fundamental, pois as artes que são praticadas hoje são, em grande parte, um produto dessas décadas. Eles emergiram de um debate sobre a melhor forma de reformar o sistema tradicional de combate da China; sobre a relação adequada entre as artes nacionais, o Estado e a sociedade. Nossa prática atual continua a ser moldada por essas discussões de maneiras que muitas vezes escapam ao nosso aviso. Tang Hao, embora não seja um nome familiar entre a maioria dos praticantes das artes marciais chinesas hoje, desempenhou um papel crítico na formação deste debate. Tornar seus trabalhos mais amplamente disponíveis e mais conhecidos seria uma grande ajuda para a nossa contínua reavaliação do período Guoshu.
 
+<p align="center">
 oOo
+</p>
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/167513273-61f5747b-2a69-4cb6-a193-a5d283b7d9d9.png" caption="Um retrato de Tang Hao, 1897-1959. Fonte: Wikimedia." %}
 
+<p align="center">
 oOo
+</p>
+
+
 
 ---
 
