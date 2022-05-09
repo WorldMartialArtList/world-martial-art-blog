@@ -20,6 +20,8 @@ Esta lista foi melhorada pela assistência do tipo dos seguintes indivíduos:
 - Anatoly Tokara
 - Reto Turnell
 
+## Estilos contemporâneos
+
 |Estilo	|Cabeça	|Fundador	|Raizes|
 |-------|-------|---------|-------|
 |Bach My Phai  (Baimeiquan)	|(várias linhagens)	|Zhang Liquan (1880 - 1964)?(atribuída a Baimei)	|Nga Meu Phai(?)|
@@ -87,24 +89,29 @@ Esta lista foi melhorada pela assistência do tipo dos seguintes indivíduos:
 |Vo Song Be|	(várias linhagens)|	"nenhum"(termo coletivo para artes provinciais)	|?|
 |Vo Tan Kanh	|?	|?	|?|
 |Vo Tay Son	|(várias linhagens)	|"nenhum"(termo coletivo para artes regionais)	|?|
-        ---> 	Diep Bao Sanh	?	(Vo Tay Filho)
-        ---> 	Ho Buu	(Ho Ngan & Diep Bao Sanh?)	(Vo Tay Filho)
-        ---> 	Phan Toan Chau	?	(Vo Tay Filho)
-        ---> 	Tai Vinh Minh	?	(Vo Tay Filho)
-        --->  Tay Son Nhan	Nguyen Van Deu
-(também conhecido como Hong Nhan)	Le Van Khoi	(Vo Tay Filho)
-Vo Thanh Long	Nguyen Dan Phu (1912-)	Nguyen Dan Phu?	?
-Vo That Son	(várias linhagens)	"nenhum"
-(termo coletivo para artes regionais)	?
----> esse filho que Vo Dao	Phuoc Gia Phan?	?	Vo That Son,
-estilo sino-vietnamita?
----> Nga Meu Filho Phat Gia Quyen	?	?	Vo esse filho? (nome pode indicar origem Emeiquan)
-Vo Tong Hop	?	?	?
-Vo Trung Hoa	(várias linhagens)	Nguyen Trung Hoa	Vo Binh Dinh, Vo Quang Binh,
-Vo Bac Ninh, Thieu Lam Nam Phai
-        ---> Vo Dao Trung Hoa	Jean Quy	Jean Quy	Vo Trung Hoa, ?
-        ---> Vo Duong Cay Lau	Bernard Vo Dinh Quang	Bernard Vo Dinh Quang	Vo Trung Hoa, alguma influência de Quan Khi Dao
-Vo Viet Nam	Nguyen Duc Moc	Nguyen Duc Moc	?
-Vo Viet-Nam	ver entrada em Long Ho Hoi - Vo Viet-Nam
-Vovinam	Le Sang (1931)	Nguyen Loc (1912-1960)	Vo Bac Ninh e muitos outros estilos
-Vu Dao	?	?	?
+|        ---> |	Diep Bao Sanh|	?	|(Vo Tay Son)|
+|        ---> |	Ho Buu|	(Ho Ngan & Diep Bao Sanh?)	|(Vo Tay Son)|
+|        ---> |	Phan Toan Chau|	?	|(Vo Tay Son)|
+|        ---> |	Tai Vinh Minh|	?	|(Vo Tay Son)|
+|       ---> Tay Son Nhan|	Nguyen Van Deu(também conhecido como Hong Nhan)|	Le Van Khoi|	(Vo Tay Son)|
+|Vo Thanh Long|	Nguyen Dan Phu (1912-)|	Nguyen Dan Phu?|	?|
+|Vo That Son	|(várias linhagens)	|"nenhum"(termo coletivo para artes regionais)|	?|
+|---> That Son Than Vo Dao|	Phuoc Gia Phan?|	?	|Vo That Son,estilo sino-vietnamita?|
+|---> Nga My Son Phat Gia Quyen|	?|	?|	Vo That Son? (nome pode indicar origem Emeiquan)|
+|Vo Tong Hop	|?|	?	|?|
+|Vo Trung Hoa	|(várias linhagens)|	Nguyen Trung Hoa	|Vo Binh Dinh, Vo Quang Binh,Vo Bac Ninh, Thieu Lam Nam Phai|
+|  ---> Vo Dao Trung Hoa|	Jean Quy|	Jean Quy|	Vo Trung Hoa, ?|
+|        ---> Vo Duong Cay Lau|	Bernard Vo Dinh Quang	|Bernard Vo Dinh Quang|	Vo Trung Hoa, alguma influência de Quan Khi Dao|
+|Vo Viet Nam|	Nguyen Duc Moc|	Nguyen Duc Moc|	?|
+|Vo Viet-Nam|	ver entrada em Long Ho Hoi - Vo Viet-Nam|||
+|Vovinam|	Le Sang (1931)|	Nguyen Loc (1912-1960)|	Vo Bac Ninh e muitos outros estilos|
+|Vu Dao	|?|	?	|?|
+
+Por favor, note que esta lista está longe de ser completa!
+
+(Em público, muitos estilos são conhecidos apenas sob o nome coletivo de Viet Vo Dao).
+
+---
+
+{% include button.html text="Artigo original" link="https://web.archive.org/web/20011215132934/http://vo.madb.de/styles/index.htm" %}
+
