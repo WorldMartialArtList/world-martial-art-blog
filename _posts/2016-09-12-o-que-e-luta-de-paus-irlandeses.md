@@ -177,7 +177,7 @@ O método descrito aqui mostra um método muito avançado de produção de uma v
 
 ## 6. Tornando-se infame
 
-{% include figure.html image="https://user-images.githubusercontent.com/16365313/167558878-8c1e4ade-aff6-4a28-8e19-f7b36bc111ca.png" caption="Donnybrook Fair- um chamado para lutar por Erskine Nicol (por volta de 1850). O lutador está arrastando seu casaco, esperando que alguém pise nele para iniciar uma luta. A expressão "arrastando casaco" ainda é usada hoje na Irlanda para falar sobre alguém que busca problemas. Muitos desconhecem sua origem." %}
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167558878-8c1e4ade-aff6-4a28-8e19-f7b36bc111ca.png" caption="Donnybrook Fair- um chamado para lutar por Erskine Nicol (por volta de 1850). O lutador está arrastando seu casaco, esperando que alguém pise nele para iniciar uma luta. A expressão arrastando casaco ainda é usada hoje na Irlanda para falar sobre alguém que busca problemas. Muitos desconhecem sua origem." %}
 
 Então, como uma arte tão imensamente popular desapareceu a ponto de ser agora virtualmente desconhecida para a maioria das pessoas em seu país natal? Muitos fatores contribuíram para a queda do boiscín, um deles foi o desaparecimento de brigas de facções. Após a Grande Fome, as lutas tornaram-se mais raras. Muitos combatentes haviam deixado a ilha, outros estavam mortos, a Igreja começou a criticar a violência e a Coroa Britânica, que anteriormente decidiu fechar os olhos sobre a prática, finalmente decidiu mudar sua posição sobre as lutas de facções e começou a implementar sentenças duras para aqueles considerados culpados de participar em uma.
 
