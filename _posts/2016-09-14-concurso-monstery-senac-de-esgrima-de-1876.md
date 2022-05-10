@@ -147,7 +147,7 @@ Ou, como T. Griffiths afirmou em The Modern Fencer (1868),
 
 A pergunta atual permanece: durante o concurso tammany de 1876, o Senac estava utilizando o legítimo impulso temporal, ou ele estava apenas atacando os ataques de Monstery, e incorrendo em golpes duplos, que foram então marcados principalmente a seu favor? Se ele estava tentando utilizar stop-thrusts genuínos, ele estava falhando em executá-los corretamente (incorrendo em dois golpes), e depois sendo recompensado por eles?
 
-{% include figure.html image="https://user-images.githubusercontent.com/87587795/167728125-eaec2964-e395-43c1-b46f-0f1db8483cff.png" caption="Regis Senac nos últimos anos, de "A Arte da Esgrima", 1904." %}
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167728125-eaec2964-e395-43c1-b46f-0f1db8483cff.png" caption="Regis Senac nos últimos anos, de A Arte da Esgrima, 1904." %}
 
 *"O jogo... não foi satisfatoriamente terminou devido ao retiro intencional do meu adversário. O árbitro decidiu que eu tinha direito ao título de campeão da América e sua decisão foi ratificada, tenho orgulho de dizer, pelos aplausos unânimes do público. Esse título foi honestamente conquistado e eu posso acrescentar, honrosamente suportado por mim desde então. (New York Sun, 5 de janeiro de 1880)*
 
