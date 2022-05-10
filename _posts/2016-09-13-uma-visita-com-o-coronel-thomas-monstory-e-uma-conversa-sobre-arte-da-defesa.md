@@ -82,5 +82,5 @@ A sabedoria marcial do Coronel Thomas H. Monstery sobrevive em seu tratado sobre
 
 ---
 
-{% include button.html text=Artigo Original" link="https://martialartsnewyork.org/2015/08/11/a-visit-with-colonel-thomas-monstery-and-a-conversation-about-the-art-of-defense/" %}
+{% include button.html text="Artigo Original" link="https://martialartsnewyork.org/2015/08/11/a-visit-with-colonel-thomas-monstery-and-a-conversation-about-the-art-of-defense/" %}
 
