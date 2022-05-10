@@ -181,7 +181,103 @@ Ao longo da segunda metade do século XIX, Monstery enfrentou uma variedade de o
 
 *"ambos os homens mostraram o fato de que a cortesia é tanto uma parte da esgrima como o impulso e parry. O público recebeu a última luta com grande entusiasmo, e chamou em voz alta para discursos, que, no entanto, não foram feitos."*
 
-![image](https://user-images.githubusercontent.com/87587795/167728411-326b9103-e729-46bf-a4b3-9cb612d4f027.png)
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167728411-326b9103-e729-46bf-a4b3-9cb612d4f027.png" caption="Richard Malchien, 1896, no Daily Inter Ocean" %}
+
+O outro concurso que Monstery perdeu ocorreu em 1896, quando ele tinha 72 anos de idade; seu oponente era um jovem prodígio chamado Richard Malchien. Diante de um grande público, Monstery concedeu a partida para Malchien depois de ficar para trás por um único ponto, com um placar final de três a dois. Foi notado:
+
+*"Mais de uma taça de vinho meia hora depois, o vencedor e derrotado tendo apertado as mãos, Alan H. Sanson, agindo sob o conselho de seu diretor, cancelou a partida e devolveu o dinheiro da estaca do coronel. Este último, relutante em aceitar isso como um presente, comprou tanto valor de vinho, e todos apertaram as mãos e separaram os melhores amigos."*
+
+Essas competições provam que, no mínimo, Monstery era mais do que capaz de perder graciosamente em torneios de esgrima de alto perfil.
+
+Ao contrário de Monstery, Senac continuou a atrair controvérsias, bem como sentimentos amargos de seus oponentes, ao longo de sua carreira.
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167728728-732ba585-201b-471b-a134-f21b282159ab.png" caption="O velho New York Tunverein, na East Fourth Street. Fonte: http://www.maggieblanck.com/NewYork/Societies.html" %}
+
+Em 1877, um ano e meio após o torneio de Tammany, o francês se envolveu em uma competição pública com Louis Friedrich do New York Turnverein, no Turn Hall na East Fourth Street. Um repórter que testemunhou o evento contou:
+
+*"O Senac é um dos esgrimistas mais ativos, graciosos e catlike que já vimos, mas parece ser constitucionalmente impossível para ele cercar de forma justa... [Friedrich] fez sete pontos para os seis do Senac, e cinco do francês foram feitos injustamente, permanecendo estendido após seu pulmão falhar, e esfaqueando com lâmina encurtada, sem mente do golpe justo do adversário. Se o Senac largasse esse estilo de esgrima, juntamente com seus truques de macaco, ele poderia se tornar um esgrimista muito popular, pois sua agilidade e rosto bonito são muito agradáveis para o público; mas como é, ele é decididamente degenerando. (New York Spirit of the Times, 3 de novembro de 1877)*
+
+Nem Monstery foi o último esgrimista a sair no meio de uma disputa com o Senac.
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167728896-2424debc-d8c4-42fd-a4f3-4faed4b79942.png" caption="Eugenio Pini" %}
+
+Em 1894, quando o francês enfrentou Eugenio Pini em um concurso perante a Sociedade Benevolente Francesa de Nova York,
+
+*"Pini ficou irritado... e finalmente tirou sua máscara, e, lançando sua folha no palco, se aposentou em um huff. (Philadelphia Record, 4 de janeiro de 1894)*
+
+O incidente escalou para um duelo ameaçado, quando o Prof. Frank G. Scannapieco, testemunha do concurso, ficou do lado do Senac, em um editorial impresso em seu jornal de língua italiana Il Vesuvio. Pini respondeu através das colunas de outro jornal italiano em Nova York, afirmando que "o editor de Il Vesuvio era um tolo, e não sabia nada sobre esgrima". Quando Scannapieco publicou outra resposta criticando a esgrima de Pini, este último "encaminhou um telegrama de Havana, para onde ele tinha ido nesse meio tempo, chamando o professor Scannapieco de alguns epítetos viles e exigindo satisfação no ponto da pistola". Scannapieco entreteve, mas não aceitou, o desafio de Pini.
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167729038-78f6b4a9-6a2b-4d2d-922f-4f10bc47e8cd.png" caption="" %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167729096-74d53184-d20d-41dd-94ac-e3319e77055d.png" caption="Cartel assinado pelo segundo de Pini, publicado no Sunday Inter Ocean, 14 de janeiro de 1894." %}
+
+Embora não esteja claro se o Senac foi realmente o culpado no incidente com Pini, o fato é que em dois casos separados, esgrimistas saíram no meio de um concurso público com o Senac. Na verdade, um terceiro incidente desse tipo ocorreu em outro concurso de Tammany com o esgrimista Albert Vaughn, que saiu do palco depois de alegar que o Senac "não estava disposto a agir de forma justa e cavalheiresca" (New York Clipper, 12 de abril de 1884). No entanto, no último caso, Senac tinha desativado o braço de espada de Vaughn com um corte vicioso, e não está claro se Vaughn tomou um brage com esse fato, ou por outras razões. Se as queixas dos oponentes do Senac tiveram algum mérito, ou se eram, em vez disso, as queixas ingratos de homens que não podiam suportar a derrota nas mãos de um espadachim superior, é, naturalmente, uma questão de especulação.
+
+## CONCLUSÃO E LEGADO
+
+Nas décadas seguintes ao concurso Monstery-Senac, Monstery cada vez mais se manifestou contra a jogabilidade na esgrima, e escreveu sobre a manutenção do aspecto marcial da arte e da ciência. Pouco mais de um ano antes do concurso, ele havia afirmado:
+
+*"Um ataque de armas deve ser conduzido com a mesma precaução como se a própria vida estivesse em jogo." (Gramado, Campo e Fazenda, 29 de janeiro de 1875)*
+
+Sua preocupação também era palpável em dezembro de 1878, quando o Clube Atlético de Nova York publicou suas "Leis do Atletismo", que incluíam a seguinte disposição para esgrima com a folha:
+
+*"Tempo ou paradas, entregues sem o pulmão, contam apenas a favor do doador se não baterem em si mesmo; se ambos forem atingidos simultaneamente, a contagem pertence ao competidor que atingiu seu oponente na parte superior do corpo; se atingido na mesma linha, o ponto é de nenhuma contagem.*
+
+Monstery publicou uma longa crítica a essas leis no New York Spirit of the Times, explicando:
+
+*"O resto da regra, desde que a contagem em impulsos simultâneos deve pertencer ao partido que atinge a parte superior do corpo não só é imprudente, mas diretamente calculada para encorajar e proteger o tipo mais cruel de truques e trapaças. É verdade que, no momento, nossos esgrimistas amadores, como regra, cerca de forma justa; mas se essa regra persistir, é apenas uma questão de tempo para eles se tornarem proficientes neste tipo de trapaça, e arruinar a arte da esgrima nos Estados Unidos para sempre. Só há uma prática segura a seguir em esgrima de papel alumínio. Isto é para imitar o mais próximo possível a competição com o ponto nu. Ninguém além de um maníaco tomaria impulso para empurrar de um adversário com pontos afiados, a menos que, de fato, ele fosse um espadachim muito inferior, que desejava ter algum tipo de vingança perfurando o ombro de seu inimigo, ao preço de uma ferida mortal através de seus próprios pulmões. Ao derrubar esta provisão viciosa, espaço amplo será deixado para o legítimo impulso de tempo e paradas, que são marcas da mais alta habilidade em esgrima se o doador não for atingido enquanto os entrega."*
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167729295-a86af5d1-8a3a-410f-941f-0e8009f93916.png" caption="Um bom impulso temporal, ou "golpe de estado", com oposição em sexto lugar, mostrado em Théorie de L'Escrime de Gomard, 1845." %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167729379-2a4f472c-2b91-4c29-99bc-3f6d282428c0.png" caption="Um golpe duplo ou simultâneo. Em um combate real com afiadas, ambos os esgrimistas seriam feridos ou possivelmente mortos. Dos Segredos da Espada do Barão de Bazancourt, 1900." %}
+
+Monstery criticou uma regra semelhante para o sabre apresentada pelo Clube, explicando:
+
+*"As consequências de golpes simultâneos com sabres não podem deixar de ser desastrosas para ambas as partes. Em um duelo de sabre real, sua entrega exigiria dois maníacos em vez de um.*
+
+Ao presidir concursos de esgrima como juiz, as evidências disponíveis sugerem que Monstery era tão bom quanto sua palavra, tentando garantir que a espada fosse tratada como uma arma séria. Em um concurso de 1893, notou-se que
+
+*"Para um estranho parecia muito como se cada vez que um homem batia no outro, o golpe seria cruzado em um estilo esplêndido, devolvendo o golpe com interesse. Isso, no entanto, foi decidido por aqueles que estavam no esporte para ser contra os princípios da esgrima. "Pois", argumentou o Coronel Monstery, "Se as armas fossem afiadas, o primeiro golpe seria cortado da cabeça dele que a recebeu, e como um homem com a cabeça cortada poderia retornar um golpe?". (Daily Inter Ocean, 3 de novembro de 1893)*
+
+Em sua crítica de 1878 às leis do Clube Atlético de Nova York, Monstery enfatizou a importância de distinguir um "impulso limpo" de um "olhar", e expressou desânimo com a possibilidade de "muita trapaça" na esgrima — trapaceando que, segundo Monstery, "certamente se seguiria se o torneio de armas se tornasse popular nos Estados Unidos". Ele acrescentou:
+
+*"No momento, essa trapaça está restrita à classe mais baixa de profissionais europeus. Não vamos, através da ignorância, admitir isso na sociedade dos cavalheiros americanos amadores.*
+
+*Seu*
+
+*Thomas H. Monstery"*
+
+Quanto ao Senac, ele ainda não terminou com Monstery. Embora o francês tenha sido oficialmente julgado vencedor em seu concurso de 1876, o próprio Senac parecia reconhecer sua inconclusividade, quando em 5 de janeiro de 1880, no New York Times, desafiou Monstery a mais uma vez "lutar uma luta com ele... para o campeonato da América.
+
+Desta vez, Monstery ignorou o desafio.
+
+## Leitura posterior:
+
+{% include figure.html image="https://user-images.githubusercontent.com/87587795/167729874-009a0582-bb45-4542-adeb-02e0f4742ab8.png" caption="" %}
+
+Coronel Thomas H. MonsteryA sabedoria marcial sobrevive em seu tratado sobre [**Boxe, Chute, Grappling e Esgrima com a Bengala e Quarterstaff**](http://wordpress.redirectingat.com/?id=725X1342&isjs=1&jv=15.2.4-stackpath&sref=https%3A%2F%2Foutofthiscentury.wordpress.com%2F2015%2F05%2F19%2Fthe-monstery-senac-fencing-contest-of-1876%2F&url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1583948686%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Dbenmillerfilm-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1583948686%26linkId%3D004721ed37460f8cf09ec643e66ceb32&xs=1&xtz=180&xuuid=f598bd08e0f4170eba619c61c87a49ce&xcust=8982&xjsf=other_click__auxclick%20%5B2%5D), que foi recentemente publicado pela North Atlantic Books em forma de livro pela primeira vez. Este volume contém uma nova biografia detalhada de Monstery, e inclui escritos adicionais do Coronel.
+
+Mais informações sobre a Monstery também podem ser obtidas a partir desses artigos:
+
+[**Um Grande Assalto de Armas em Nova York, dirigido pelo Coronel Monstery**](https://outofthiscentury.wordpress.com/2015/04/09/a-grand-assault-of-arms-in-old-new-york-directed-by-col-thomas-monstery/)
+
+[**Monstery e o Treinamento de Jaguarina, A Espadachim Campeã da América**](http://martialartsnewyork.org/2015/03/31/colonel-thomas-monstery-and-the-training-of-jaguarina-americas-champion-swordswoman/)
+
+[**Uma luta de descalços no Coronel Monstery**](https://outofthiscentury.wordpress.com/2015/05/07/a-bare-knuckle-fight-at-colonel-monsterys/)
+
+[**Coronel Thomas H. Monstery e o Uso do Quarterstaff**](http://martialartsnewyork.org/2015/04/09/colonel-thomas-h-monstery-and-the-use-of-the-quarterstaff/)
+
+[Assim como este artigo](http://john-adcock.blogspot.com/2012/04/colonel-monstery-soldier-of-fortune.html), escrito pela bisneta de Monstery, Diane Hayes.
+
+ 
+
+Texto deste artigo © de 2015 por Ben Miller.
+
+---
+
+
+{% include button.html text="Artigo Original" link="https://outofthiscentury.wordpress.com/2015/05/19/the-monstery-senac-fencing-contest-of-1876/" %}
+
 
 
 
