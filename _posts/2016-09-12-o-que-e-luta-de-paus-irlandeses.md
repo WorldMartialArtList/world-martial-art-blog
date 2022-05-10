@@ -3,7 +3,8 @@ title: O que é luta de paus irlandeses?
 categories:
 - Bataireacht 
 - boiscín
-- irlandês  
+- irlandês 
+- Luta de paus irlandeses, 
 feature_text: |
   Por Maxime Chouinard
 ---
@@ -272,7 +273,121 @@ Pouco se sabe do autor de [exercícios defensivos](https://archive.org/details/d
 
 O artigo sun call de 1905 foi descoberto recentemente e propõe um método de defesa de bengala baseado em bataireacht. O autor observa que se muitos professores de defesa de bengala baseiam seu método na esgrima, ele considera que o melhor método é usar a vara como os irlandeses. Os detalhes encontrados neste artigo confirmam muitos dos aspectos ensinados no boiscín tradicional – como o uso dos três dedos superiores, a medida da vara ou a abaixagem na guarda, mas também introduzem um conceito muito desconhecido; a de lutar com a vara de cabeça para baixo. Como mencionado anteriormente, isso também faz parte do método de Walker e pode ser incluído como precaução de segurança para práticas ou lutas amigáveis. É possível que essa escolha tenha sido um ressarcimento da prática do autor, sem saber, incluída, ou que ele conscientemente a incluiu levando em conta as novas preocupações legais que enfrentam a legítima defesa.
 
-![image](https://user-images.githubusercontent.com/16365313/167560358-5c49b06d-4341-4937-9fe6-64aeb80ebc10.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167560358-5c49b06d-4341-4937-9fe6-64aeb80ebc10.png" caption="Como em Antrim Bata, a parte inferior da vara deve passar pelo cotovelo por cerca de uma polegada ou mais." %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167560538-841b4595-9ce9-4910-b192-e9336acf9b87.png" caption="Novamente semelhante a Antrim Bata a vara é mantida principalmente com os três primeiros dedos, o polegar estendido no eixo. A posição aqui é exagerada, pois é claro que todos os dedos devem fechar na vara." %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167560634-eba4961b-b226-454e-9048-9b8c1c686946.png" caption="O uso do buta ou extremidade inferior é uma peculiaridade da vara irlandesa." %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167560717-87e65aac-63ec-4b3b-b2ad-e84a1f82414a.png" caption="" %}
+
+#### Outros
+
+[Allanson-Winn](http://www.gutenberg.org/files/31214/31214-h/31214-h.htm) descreveu algumas técnicas de "shillalah" em seu livro sobre espadas largas, quarterstaff e singlestick de 1911. [Winn](https://hemamisfits.com/2015/02/03/what-is-irish-stick-fighting/#_ftn24) herdou uma baronia na Irlanda e observou a prática de luta de varas. Um de seus detalhes mais notáveis é mencionar o uso do backhand para proteger o lado da cabeça como um targe. Não está claro se a mão deve ser deixada diretamente ao lado da cabeça, ou perto dela.
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167560898-23e7c9d0-4dd5-4274-8749-a6087e6fd05e.png" caption="Esta ilustração de Allanson Winn está mostrando um lutador de vara entre as ações e compartilha alguns pontos em comum com Antrim Bata. O aperto no terceiro, polegar para cima, sobre a cabeça. Infelizmente, não está muito claro o que Winn queria mostrar neste caso." %}
+
+[Percy Longhurst](http://www.nycsteampunk.com/bartitsu/manuals/JuiJitsuAndOtherMethodsOfSelfDefence1906.pdf), um estudante de Bartitsu, também nos dá alguns truques para usar um bastão de blackthorn com o habitual aperto irlandês em 1918. [25] Um deles, o golpe no antebraço ou cotovelo é frequentemente repetido em artigos de jornais da época.
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561105-aa14a539-fb09-487b-adc6-5fe0ab83bee1.png" caption="" %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561135-e0417ad2-de29-4b0f-bb13-0ebe61a35661.png" caption="" %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561158-bef5be6c-e306-4890-926a-d166f766b5e5.png" caption="" %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561174-ce107dc6-e958-4152-8d78-6397191527de.png" caption="" %}
+
+Finalmente, uma nova fonte foi recentemente descoberta que pode – ou não ser – de origens irlandesas, mas é bastante próxima em muitos aspectos. Publicaremos aqui uma foto deste artigo que será apresentada em [nosso próximo artigo](https://hemamisfits.com/2015/04/10/when-the-cane-is-mightier-than-the-sword/).
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561469-56d2e4e3-0d68-4b64-89fc-3ea439b8d21e.png" caption="" %}
+
+#### Método de Jafsie
+
+Outra fonte, desta vez um vídeo, foi descoberto recentemente. [Clique aqui](https://hemamisfits.com/2018/10/24/jafsies-stick-fencing-the-first-video-evidence-of-irish-stick/) para uma análise e comparativo com Antrim Bata.
+
+## 8. Como é único?
+
+O que faz os irlandeses lutarem tão diferente de outros estilos? Vamos examinar o caso de Antrim Bata.
+
+A maioria das artes marciais usando varas curtas ou médias pegam suas armas com uma ou duas mãos, mas principalmente pelo extremo final, dando-lhes um alcance superior. Mas isso também vem com uma desvantagem; O centro de equilíbrio está tão longe da mão e o instrumento sendo mais longo precisa de um movimento maior para atingir uma velocidade alta o suficiente para causar dano; ainda mais se o botão está sendo mantido no topo. Várias maneiras foram concebidas para fazê-lo, seja trazendo a vara para trás e batendo para frente e para trás como em Escrima ou em movimentos circulantes como em La Canne.
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561658-9139cddf-3da2-4355-bd0e-62bf0927d066.png" caption="A alta guarda em Antrim Bata. Cork 2007" %}
+
+Em Antrim Bata, a vara é agarrada de forma diferente. A massa sendo ainda mais para a frente do que na maioria das varas precisa ser realizada mais alto, a fim de permanecer manobrável. O terço inferior da vara também age como um contrapeso ou um pêndulo; à medida que a vara é lançada para a frente, a extremidade inferior vai para trás, dando mais energia ao ataque. É então possível usar a vara em um movimento muito menor, negando a necessidade de telegrafar o movimento.
+
+Esta aderência também permite que o lutador use um guarda que é desconhecido da maioria das armas de arte. Se a vara fosse segurada até o final, o lutador querendo pegar uma alta guarda abriria seu braço como um alvo. No nosso caso, o braço inferior está protegido, assim como todo o lado frontal. O único alvo que resta é a mão que pode ser protegida simplesmente enquanto a vara está pronta para atacar a qualquer momento. A alta guarda combina então as vantagens de uma guarda defensiva e ofensiva.
+
+Esta aderência também significa que a vara pode ser usada rapidamente em uma variedade de distâncias. Um longo alcance pode ser coberto agarrando a vara até o final com ambas as mãos, o que é feito principalmente para manter vários inimigos à distância, mas também pode ser usado à distância e até mesmo em espaços fechados.
+
+Parries também são muito mais seguros, pois a parte inferior age como um dispositivo de segurança no caso de o alvo do golpe do adversário ser mal julgado. Se a vara fosse pega no final o golpe passaria por cima ou por baixo dele, mas com a parte inferior grudando, ainda se pode ficar protegido.
 
 
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561807-724c2da3-d1c4-4fa2-b966-d424ce48453c.png" caption="Uma vara curta oferece uma forte parry em qualquer lugar de sua superfície, mas cobre menos de uma área. É mais fácil para o oponente conseguir uma abertura para atacar." %}
 
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561961-21f40e34-10a8-4904-967f-783e4665fb4e.png" caption="Uma vara mais longa, como uma bengala, cobre muito, mas também oferece uma resistência fraca na metade superior devido ao comprimento. Um golpe poderoso pode fazer esse colapso parry." %}
+
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167561978-a1f2dc9c-c549-47ed-a3ae-423dd9a5dab2.png" caption="O aperto irlandês combina as vantagens da vara curta e longa. Seus parries são fortes mesmo perto das pontas e se usado corretamente cobre uma grande área." %}
+
+Finalmente, a vara pode ser agarrada em um instante a partir de uma posição normal de bengala. Um lutador treinado pode pegar sua guarda em um segundo deslizando o bastão para cima e instantaneamente lidar com golpes rápidos.
+
+## 9. Olhando para o futuro
+
+Esperamos que esta pequena visão geral tenha informado melhor sobre a natureza da luta de varas irlandesas e a tradição que está ligada a ela. Boiscín está agora desconectado da prática de lutas de facções e os alunos que desejam aprender agora estão muito mais interessados em aprender sobre esse patrimônio cultural, além de usá-lo como meio de autoaperfeiçoamento e autodefesa. Espero que um dia a arte se sente entre o célebre patrimônio cultural da Irlanda como a prática única e rica que representa.
+
+## Referências:
+
+[1] Bowdler, N. (2011, 11 de maio). Local de batalha da Idade do Bronze encontrado na margem do rio Alemão. Recuperado em 28 de janeiro de 2015, de http://www.bbc.co.uk/news/science-environment-13469861
+
+[2] Cambrensis, Giraldus. A Topografia da Irlanda. Trans: Thomas Wright, Cambridge: Em Publicações de Parênteses.
+
+[3] Gainsford, Thomas. (1620). A glória da Inglaterra, ou, uma verdadeira descrição de muitos excelentes prerobús, pelo qual ela triunfa ouer todas as nações. Londres.
+
+[4] Elliot, C. (Ed.). (1910). The Harvard Classics, Epic and Saga: Beowulf, The Song of Roland, The Destruction of Da Derga's Hostel, The Story of the Volsungs, e Niblungs (Vol. 49). Collier & son.
+
+[5] Conley, C. (1999). A agradável recriação da luta. Revista de História Social, 33(1), 57-72.
+
+[6] SHANAVEST E CARAVAT. (n.d.). Recuperado em 24 de janeiro de 2015, a partir de http://www.ceolas.org/cgi-bin/ht2/ht2-fc2/file=/tunes/fc2/fc.html&style=&refer=&abstract=&ftpstyle=&grab=&grab=&linemode=&max=250&isindex=John's Irish Air&submit=Search
+
+[7] Académie de Vaucluse. Mémoires de l'Académie de Vaucluse (1882). 1890.
+
+[8] Lyons, P. (1943). Esgrima de vara. Béaloideas, 269-272.
+
+[9] Phelan, M. (2010). O advento do drama irlandês moderno e a abjeção da cultura popular camponesa: folclore, feiras e lutas de facções. Kritika Kultura, 15 anos, 149-169.
+
+[10] Carleton, W. (1830). TRAÇOS E HISTÓRIAS DOS CAMPONESES IRLANDESES.
+
+[11] O'Donnell, P. (1975). Os combatentes da Facção do século 19. Anvil Books.
+
+[12] Allanson-Winn, R., & Phillips-Wooley, C. (1911). ESPADA LARGA E MONODERA COM CAPÍTULOS SOBRE QUARTO-STAFF, BAIONETA, CUDGEL SHILLALAH, BENGALA, GUARDA-CHUVA, e outras armas de autodefesa. Londres: G. BELL & SONS.
+
+[13] Kirby, M. (2003). Skelligs Chamando. Dublin: A Lilliput Press.
+
+[14] Lyons, P. (1943). Esgrima de vara. Béaloideas, 269-272.
+
+[15] Phelan, M. (2010). O advento do drama irlandês moderno e a abjeção da cultura popular camponesa: folclore, feiras e lutas de facções. Kritika Kultura, 15 anos, 149-169.
+
+[16] Schor, J. (1957). O americano sobrecarregado: o declínio inesperado do lazer.
+
+[17] Wright, W. (1844). Os Brontës na Irlanda.
+
+[18] Luta de Facções Irlandesas. (1842, 1º de janeiro). O Diário da Civilização; Suas Necessidades, Progresso e Bênçãos, 61-61.
+
+[19] STOREY, David. "Patrimônio, Cultura e Identidade: O caso dos jogos gaélicos." Esporte, história e patrimônio: Estudos em representação pública. Ed. Jeffrey Hill. Boydell & Brewer Group, Nova Iorque, 2014.
+
+[20] EPRON, Aurélie. Histoire du gouren (XIXe-XXIe siècles) : L'invention de la lutte bretonne. Université Européenne de Bretagne, Dissertação Phd.
+
+[21] O'Donnell, P. (1975). Os combatentes da Facção do século 19. Anvil Books.
+
+[22] O'Gallagher, M. (2008, 1 de janeiro). Marianna O'Gallagher. Recuperado em 29 de janeiro de 2015, de http://irelandmonumentvancouver.com/side-3-the-100-names/the-100-names/marianna-ogallagher/
+
+[23] Walker, D. (1840). Exercícios defensivos; incluindo luta livre, boxe, &c. London: Thomas Hurst.
+
+Allanson-Winn. Op. Cit.
+
+[25] Longhurst, P. (1906). Jiu-Jitsu e Outros Métodos de Autodefesa.
+
+
+---
+
+
+{% include button.html text="Artigo Original" link="https://hemamisfits.com/2015/02/03/what-is-irish-stick-fighting/" %}
