@@ -67,31 +67,108 @@ Leung Wing-hang aproveitou um conceito fascinante vendo e capturando a força do
 
 ### Filme de Jackie Chan de 1978: Snake in the Eagle's Shadow
 
-![image](https://user-images.githubusercontent.com/16365313/167769364-3c21898e-0975-422a-bb04-a31f8bafde5c.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167769364-3c21898e-0975-422a-bb04-a31f8bafde5c.png" caption="" %}
 
 
 O clássico filme de Jackie Chan onde ele interpreta o intimidado 'Chien Fu' que derrota o mestre da Garra de Águia combinando o estilo Snake com técnicas que ele cria observando seu gato de estimação lutando com uma cobra. O estilo acrobático auto-criado de Jackie não tem relação com o de Leung Wing-hang, mas o conceito de combinar os atributos da cobra e do gato soa um pouco coincidência demais, não acha?
 
+{% include video.html id="WjUqjUgTJQA" title="Snake in the eagle Shadow (9/13) Combined of Cat and Snake Style Training !" %}
+
 ### Filme de 1980: She-mau-hok-won-ying-kuen, também conhecido como Lackey e lady tiger
 
-![image](https://user-images.githubusercontent.com/16365313/167769414-65c37135-6b0c-4e44-b357-7987d7c6d05a.png)
-
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167769414-65c37135-6b0c-4e44-b357-7987d7c6d05a.png" caption="" %}
 
 Muito semelhante no enredo com o filme de Jackie Chan, este filme também termina com o estilo secreto e surpreendentemente superior de kung fu "Cat", que também parece ser mais acrobático do que leung wing-hang. É óbvio que o título do filme chinês foi "emprestado" diretamente do livro de Leung. Isso não poderia ter sido endossado por Leung, pois ele havia falecido anos antes da produção do filme.
+
+{% include video.html id="xh9ktj9q0ns" title="Wu Tang Collection - Lacky and The Lady Tiger" %}
+
 
 
 ### Publicações 'Imitadoras'
 
-![image](https://user-images.githubusercontent.com/16365313/167769497-ed7756c2-80d2-4bf4-8af1-865406656a80.png)
-
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167769497-ed7756c2-80d2-4bf4-8af1-865406656a80.png" caption="" %}
 
 Publicações de livros 'Imitadores' da década de 1980, incluindo uma de Douglas H.Y. Hsieh, e outra do misterioso Chu Wan San, são plágios ilegítimos capitalizando a inovação do Mestre Leung, e fazendo parecer que eram as autoridades em seu estilo. Quem eram esses imitadores? E onde eles estão agora?
 
 ### Leung Cat Style Kung Fu Schools
 
-![image](https://user-images.githubusercontent.com/16365313/167769556-f51b29c1-551b-4900-b39b-a23633d99c8a.png)
-
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167769556-f51b29c1-551b-4900-b39b-a23633d99c8a.png" caption="" %}
 
 Leung Wing-hang ou seus alunos estabeleceram escolas de kung fu para continuar o nome "Leung"? Não. Mestre Leung tinha apenas alguns discípulos selecionados, nenhum se mudou para fora da Ásia Oriental, e o nome "Leung" nunca foi passado para eles. Muitas pessoas aprenderam a forma de Snake-Cat-Crane do Mestre Leung apenas a partir de seu livro, e muitas outras encontram inspiração através dos filmes de Jackie Chan. Não há vergonha em admirar a ação de chop-socky, mas as histórias de origem fantasiosa desta escola usando o nome Leung realmente o honram?
 
+## PUNHO COMBINADO DA COBRA GATO E CEGONHA
 
+### Uma intriga duradoura
+
+Você se lembra do filme de Jackie Chan de 1978 "Snake in the Eagle's Shadow", onde o intimidado "Chien Fu" derrota o mestre da Garra de Águia combinando o estilo Snake com técnicas que ele cria observando seu gato de estimação? O estilo 'Gato' era uma novidade teatral, mas sem o conhecimento da maioria vem da história real de Leung Wing-hang.
+
+![image](https://user-images.githubusercontent.com/16365313/167770604-7c19c1bc-ae00-43a2-84ee-7a4884aa494e.png)
+
+O Punho Combinado da Cobra Gato e Cegonha, também conhecido como "Punho de Três Formas" ou "Sam Ying Kuen", foi criado na década de 1920 pelo jovem Leung Wing-hang com a orientação do Mestre Yeung Hon-git que ele conheceu durante suas viagens de trabalho no norte da China. Seus olhos estavam abertos às limitações de seu Southern Hung Kuen quando confrontado com estilos desconhecidos como Mian Kuen 'Punho de Algodão', e Ying-Jow-Tong-Long-Bo-Yin-Sun 'Garra de Águia, Passo louvado, Corpo de Andorinha'. Após a autorreflexão, ele encontrou força e poder focando-se no "mais leve" e "mais suave", e finalmente descobriu uma maneira com esse novo estilo de contrariar e conquistar suas fraquezas.
+
+### HISTÓRIA DE PUBLICAÇÃO DO PUNHO COMBINADO DA COBRA GATO E CEGONHA
+
+#### Revista chinesa de boxe #73 a #87
+
+Outubro de 1951 - Novembro
+
+![image](https://user-images.githubusercontent.com/16365313/167771564-4b092d5d-297b-4d3e-96a0-d46d1a87e7ba.png)
+
+
+Como editor contribuinte para esta popular revista de artes marciais de Hong Kong, Leung Wing-hang foi encorajado a demonstrar e publicar seu Punho de Guindaste De Gato Cobra, que apareceu como um seriado em 4 edições. Após a demanda popular, isso foi compilado e publicado no livro de 1955.
+
+#### Cheung Kee Book Co. Primeira Edição
+
+1955
+
+![image](https://user-images.githubusercontent.com/16365313/167771612-0c398c56-b8d2-4ee7-b07e-d73368b60518.png)
+
+
+Esta primeira edição impressa em chinês, inclui retratos de estúdio do Mestre Leung demonstrando as 58 técnicas da forma, padrões de pé traçando seus movimentos, a rima para lembrar a progressão das técnicas, e cartas de parabéns por mestres notáveis e líderes comunitários.
+
+Veja a cópia digitalizada da Universidade do Havaí aqui
+
+#### Chan Sheung Kee Book Co. Segunda Edição
+
+anos 1970
+
+![image](https://user-images.githubusercontent.com/16365313/167771668-f6d9455f-7e72-495c-925d-85369458091e.png)
+
+
+Após a morte do Mestre Leung, o encerramento da Cheung Kee Book Co. viu suas propriedades de direitos autorais serem vendidas para Chan Sheung Kee Book Co. As litografias originais de pedra não haviam sido preservadas, por isso esta edição foi reproduzida a partir de uma cópia física da primeira edição. A qualidade da imagem é, portanto, ruim, e as fotos para o passo 1 e passo 2 foram equivocadamente trocadas. Havia pelo menos duas versões desta edição, com e sem o retrato de Mestre Leung.
+
+Veja esta edição aqui
+
+#### 'Imitador' não autorizado de Chu Wan San
+
+1980
+
+![image](https://user-images.githubusercontent.com/16365313/167771723-9b0378e1-fc1f-4648-88c4-0a88ab351dc2.png)
+
+
+Publicado em Taiwan por Chu Wan San (Cloudy Mountain Chu) que não tem nenhuma relação conhecida com Mestre Leung. As técnicas de forma são ilustradas com desenhos de mão brutos que não capturam a essência da forma. Nenhuma referência é feita dentro do Mestre Leung.
+
+Veja este livro imitador aqui
+
+#### 'Imitador' não autorizado de Douglas H.Y. Hsieh
+
+1983
+
+![image](https://user-images.githubusercontent.com/16365313/167771773-f66568e6-1e04-48f7-8cef-5864a11cb39a.png)
+
+
+Impresso em Taipei, "compilado" por Douglas H.Y. Hsieh, que não tem nenhuma relação conhecida com Mestre Leung. Hsieh assumiu o erro da segunda edição, e falsamente atribui a origem do estilo a um monge chamado "Yi Cheng". As fotos são presumivelmente do próprio Hsieh tentando imitar Leung, mas é evidente por sua posição que sua habilidade em artes marciais é elementar.
+
+
+Veja este livro imitador aqui
+
+#### Chan Sheung Kee Book Co. Terceira Edição
+
+2012
+
+![image](https://user-images.githubusercontent.com/16365313/167771822-83c7136f-a4fd-4c20-aa05-6108c426b8a0.png)
+
+
+Kungfubrothers projeto de republicação de décadas, editado por Eric Yao, sobrinho-neto de Leung Wing-hang, em chinês e inglês, fotos originais do estúdio foram encontrados e reproduzidos em uma qualidade superior à impressão da primeira edição. O conteúdo original foi mantido, com a adição de dois novos prefácios de Eric Yao e o principal discípulo do Mestre Leung, Tam Siu-ming.
+
+ 
