@@ -112,7 +112,7 @@ O Punho Combinado da Cobra Gato e Cegonha, também conhecido como "Punho de Trê
 
 Outubro de 1951 - Novembro
 
-![image](https://user-images.githubusercontent.com/16365313/167771564-4b092d5d-297b-4d3e-96a0-d46d1a87e7ba.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771564-4b092d5d-297b-4d3e-96a0-d46d1a87e7ba.png" caption="" %}
 
 
 Como editor contribuinte para esta popular revista de artes marciais de Hong Kong, Leung Wing-hang foi encorajado a demonstrar e publicar seu Punho de Guindaste De Gato Cobra, que apareceu como um seriado em 4 edições. Após a demanda popular, isso foi compilado e publicado no livro de 1955.
@@ -121,54 +121,58 @@ Como editor contribuinte para esta popular revista de artes marciais de Hong Kon
 
 1955
 
-![image](https://user-images.githubusercontent.com/16365313/167771612-0c398c56-b8d2-4ee7-b07e-d73368b60518.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771612-0c398c56-b8d2-4ee7-b07e-d73368b60518.png" caption="" %}
 
 
 Esta primeira edição impressa em chinês, inclui retratos de estúdio do Mestre Leung demonstrando as 58 técnicas da forma, padrões de pé traçando seus movimentos, a rima para lembrar a progressão das técnicas, e cartas de parabéns por mestres notáveis e líderes comunitários.
 
-Veja a cópia digitalizada da Universidade do Havaí aqui
+[Veja a cópia digitalizada da Universidade do Havaí aqui](https://evols.library.manoa.hawaii.edu/bitstream/10524/1075/1/SnakeCatCrane-195x.pdf)
 
 #### Chan Sheung Kee Book Co. Segunda Edição
 
 anos 1970
 
-![image](https://user-images.githubusercontent.com/16365313/167771668-f6d9455f-7e72-495c-925d-85369458091e.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771668-f6d9455f-7e72-495c-925d-85369458091e.png" caption="" %}
 
 
 Após a morte do Mestre Leung, o encerramento da Cheung Kee Book Co. viu suas propriedades de direitos autorais serem vendidas para Chan Sheung Kee Book Co. As litografias originais de pedra não haviam sido preservadas, por isso esta edição foi reproduzida a partir de uma cópia física da primeira edição. A qualidade da imagem é, portanto, ruim, e as fotos para o passo 1 e passo 2 foram equivocadamente trocadas. Havia pelo menos duas versões desta edição, com e sem o retrato de Mestre Leung.
 
-Veja esta edição aqui
+[Veja esta edição aqui](https://kungfubrothers.com/chansheungkeescc.html)
 
 #### 'Imitador' não autorizado de Chu Wan San
 
 1980
 
-![image](https://user-images.githubusercontent.com/16365313/167771723-9b0378e1-fc1f-4648-88c4-0a88ab351dc2.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771723-9b0378e1-fc1f-4648-88c4-0a88ab351dc2.png" caption="" %}
 
 
 Publicado em Taiwan por Chu Wan San (Cloudy Mountain Chu) que não tem nenhuma relação conhecida com Mestre Leung. As técnicas de forma são ilustradas com desenhos de mão brutos que não capturam a essência da forma. Nenhuma referência é feita dentro do Mestre Leung.
 
-Veja este livro imitador aqui
+[Veja este livro imitador aqui](https://kungfubrothers.com/chuwansanscc.html)
 
 #### 'Imitador' não autorizado de Douglas H.Y. Hsieh
 
 1983
 
-![image](https://user-images.githubusercontent.com/16365313/167771773-f66568e6-1e04-48f7-8cef-5864a11cb39a.png)
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771773-f66568e6-1e04-48f7-8cef-5864a11cb39a.png" caption="" %}
 
 
 Impresso em Taipei, "compilado" por Douglas H.Y. Hsieh, que não tem nenhuma relação conhecida com Mestre Leung. Hsieh assumiu o erro da segunda edição, e falsamente atribui a origem do estilo a um monge chamado "Yi Cheng". As fotos são presumivelmente do próprio Hsieh tentando imitar Leung, mas é evidente por sua posição que sua habilidade em artes marciais é elementar.
 
 
-Veja este livro imitador aqui
+[Veja este livro imitador aqui](https://kungfubrothers.com/hsiehscc.html)
 
 #### Chan Sheung Kee Book Co. Terceira Edição
 
 2012
 
-![image](https://user-images.githubusercontent.com/16365313/167771822-83c7136f-a4fd-4c20-aa05-6108c426b8a0.png)
-
+{% include figure.html image="https://user-images.githubusercontent.com/16365313/167771822-83c7136f-a4fd-4c20-aa05-6108c426b8a0.png" caption="" %}
 
 Kungfubrothers projeto de republicação de décadas, editado por Eric Yao, sobrinho-neto de Leung Wing-hang, em chinês e inglês, fotos originais do estúdio foram encontrados e reproduzidos em uma qualidade superior à impressão da primeira edição. O conteúdo original foi mantido, com a adição de dois novos prefácios de Eric Yao e o principal discípulo do Mestre Leung, Tam Siu-ming.
 
- 
+---
+
+{% include button.html text="Artigo Original" link="https://kungfubrothers.com/leungwinghang.html" %}
+
+{% include button.html text="Livros" link="https://kungfubrothers.com/snakecatcrane.html" %}
+
