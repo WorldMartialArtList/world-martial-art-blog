@@ -42,6 +42,22 @@ Em Hunan, ele conheceu os membros da equipe de sua força-tarefa de guarda-costa
 
 Na década de 1940, a reputação de Leung Wing-hang e o pedigree de artes marciais atraíram a atenção do visionário diretor de cinema Wu Pang para alista de Artes Marciais em um novo filme intitulado "A História de Wong Fei-hung", estrelado por Kwan Tak-hing e Tso Tat-wah. Este filme marcou a primeira vez que artes marciais genuínas foram apresentadas por verdadeiros mestres na tela grande, e devido ao seu imenso sucesso desencadeou a franquia de filmes Wong Fei-hung que definiu o novo gênero cinematográfico do Cinema de Artes Marciais de Hong Kong. Leung trabalhou como Diretor de Artes Marciais em pelo menos quinze filmes de 1947 a 1954, e apareceu como ator em nada menos que três deles.
 
+- 1947 Hot tempered Leung’s adventure in Hong Kong 牛精良大鬧香港
+- 1949 The story of Wong Fei-hung, part one 黃飛鴻正傳
+- 1949 The story of Wong Fei-hung, part two 黃飛鴻傳下集
+- 1950 The story of Wong Fei-hung, part three: the battle by Lau Fa Bridge 黃飛鴻傳第三集 : 血戰流花橋
+- 1950 The story of Wong Fei-hung, part four: the death of Leung Foon  黃飛鴻傳四集: 梁寬歸天
+- 1950 How ten heroes of Guangdong slew the dragon 廣東十虎屠龍記
+- 1951 The story of Wong Fei-hung, grand conclusion 黃飛鴻傳大結局
+- 1951 The three sieges of Chuk Village, part one 三打祝家莊(上集)
+- 1951 The three sieges of Chuk Village, part two 三打祝家莊(下集).
+- 1951 The five heroes' deadly spears 五虎斷魂槍
+- 1951 The brave archer 百戰神弓
+- 1952 Soul of the tiger 虎膽英魂
+- 1952 Battle in Lotus Valley 血染芙蓉谷
+- 1953 Crossing Yuanyang River by night 夜渡鴛鴦江
+- 1954 The Rescue of Cloud-Piercing Swallow 鐵橋三義救穿雲燕
+        
 
 {% include figure.html image="https://user-images.githubusercontent.com/16365313/167768536-9b4b4d60-aea3-4608-9205-1e6b09cca0a7.png" caption="1949 WONG FEI-HUNG BURNS THE TYRANT'S LAIR" %}
 
